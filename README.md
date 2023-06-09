@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning gamedv
+- 🌱 I’m currently learning gamedev
 
 <!---
 tuxalonso/tuxalonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
